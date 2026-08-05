@@ -16,3 +16,11 @@ This repository contains my solutions to LeetCode SQL problems using MySQL.
 
 I am continuously practicing SQL and improving my database problem-solving skills.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1280-students-and-examinations) |
+<!---LeetCode Topics End-->
