@@ -23,4 +23,16 @@ I am continuously practicing SQL and improving my database problem-solving skill
 |  |
 | ------- |
 | [1280-students-and-examinations](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1280-students-and-examinations) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
