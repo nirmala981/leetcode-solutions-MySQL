@@ -24,6 +24,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 | ------- |
 | [0550-game-play-analysis-iv](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1174-immediate-food-delivery-ii) |
 | [1280-students-and-examinations](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1280-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1633-percentage-of-users-attended-a-contest) |
