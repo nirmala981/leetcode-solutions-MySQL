@@ -28,6 +28,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 | [1045-customers-who-bought-all-products](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1164-product-price-at-a-given-date](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1174-immediate-food-delivery-ii) |
 | [1280-students-and-examinations](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1327-list-the-products-ordered-in-a-period) |
