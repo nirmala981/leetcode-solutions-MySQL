@@ -33,6 +33,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 | [1633-percentage-of-users-attended-a-contest](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1661-average-time-of-process-per-machine) |
 | [1729-find-followers-count](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1934-confirmation-rate](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1934-confirmation-rate) |
 ## Array
 |  |
