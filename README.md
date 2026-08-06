@@ -25,6 +25,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 | [0180-consecutive-numbers](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0180-consecutive-numbers) |
 | [0550-game-play-analysis-iv](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0584-find-customer-referee](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0584-find-customer-referee) |
 | [1045-customers-who-bought-all-products](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1141-user-activity-for-the-past-30-days-i) |
