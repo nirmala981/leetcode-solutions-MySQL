@@ -29,6 +29,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1174-immediate-food-delivery-ii) |
 | [1280-students-and-examinations](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1661-average-time-of-process-per-machine) |
 | [1729-find-followers-count](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1729-find-followers-count) |
