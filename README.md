@@ -37,6 +37,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 | [1327-list-the-products-ordered-in-a-period](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1661-average-time-of-process-per-machine) |
+| [1683-invalid-tweets](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1757-recyclable-and-low-fat-products) |
