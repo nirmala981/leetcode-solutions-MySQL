@@ -23,6 +23,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 |  |
 | ------- |
 | [1280-students-and-examinations](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1280-students-and-examinations) |
+| [1661-average-time-of-process-per-machine](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1661-average-time-of-process-per-machine) |
 ## Array
 |  |
 | ------- |
