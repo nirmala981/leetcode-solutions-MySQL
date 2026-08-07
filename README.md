@@ -74,4 +74,8 @@ I am continuously practicing SQL and improving my database problem-solving skill
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
