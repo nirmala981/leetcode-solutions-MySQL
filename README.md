@@ -22,6 +22,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0197-rising-temperature) |
