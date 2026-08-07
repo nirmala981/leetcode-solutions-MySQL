@@ -30,6 +30,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 | [0584-find-customer-referee](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/1070-product-sales-analysis-iii) |
