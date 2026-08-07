@@ -23,6 +23,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0180-consecutive-numbers) |
+| [0197-rising-temperature](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0584-find-customer-referee) |
