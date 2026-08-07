@@ -66,6 +66,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0035-search-insert-position) |
 ## String
 |  |
 | ------- |
@@ -78,4 +79,8 @@ I am continuously practicing SQL and improving my database problem-solving skill
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
