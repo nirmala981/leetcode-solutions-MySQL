@@ -79,9 +79,18 @@ I am continuously practicing SQL and improving my database problem-solving skill
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
