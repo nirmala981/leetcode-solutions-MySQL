@@ -100,6 +100,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
