@@ -78,6 +78,7 @@ I am continuously practicing SQL and improving my database problem-solving skill
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -100,4 +101,12 @@ I am continuously practicing SQL and improving my database problem-solving skill
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nirmala981/leetcode-solutions-MySQL/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
